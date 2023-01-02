@@ -1,0 +1,16 @@
+{
+   "assets":[
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Patagonia",
+         "title":"Patagonia",
+         "scene":"mountain lake",
+         "id":"pj_aerial_patagonia_1",
+         "url-4K-HDR":"https://drive.google.com/file/d/1etjvbi4R15zhc26Ks6i9JUhdST6e3uPL",
+         "pointsOfInterest" : {
+            "0" : "Flying over lake in Patagonia"
+         }
+      }],
+   "version":1,
+   "initialAssetCount":0
+}
