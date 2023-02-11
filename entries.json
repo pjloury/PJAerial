@@ -2,8 +2,8 @@
    "assets":[
       {
          "timeOfDay":"day",
-         "accessibilityLabel":"Formentera",
-         "title":"Formentera, Spain",
+         "accessibilityLabel":"Balearic Islands, Spain",
+         "title":"Isla de Formentera",
          "scene":"island coast",
          "id":"pj_aerial_formentera_1",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Formentera1.mp4"
