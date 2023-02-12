@@ -47,6 +47,14 @@
          "scene":"mountains",
          "id":"fd53086f-3f60-4806-8864-07e732ae2a5c",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Alabama+Hills.mp4"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Porto, Portugal",
+         "title":"Douro River in Porto, Portugal",
+         "scene":"river city",
+         "id":"5a8c2459-134f-412f-9c16-a21f44b4f16a",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Porto2.mp4"
       }
    ],
    "version":1,
