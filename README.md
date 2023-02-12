@@ -9,7 +9,7 @@ Welcome to PJ's public drone video screensaver repo!
 3. Scroll and select "Aerial" from the list of screensaver options
 4. Click on "Screen Saver Options..."
 5. Select "More Videos" then click on "Add Online"
-6. Paste in https://pjloury.github.io/PJAerial/ and click "Install"
+6. Paste in [https://pjloury.github.io/PJAerial/](https://pjloury.github.io/PJAerial/) and click "Install"
 7. Click on the download icon to download my videos!
 
 ## Playing My Videos
