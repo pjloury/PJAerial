@@ -12,7 +12,7 @@
          "timeOfDay":"day",
          "accessibilityLabel":"Porto, Portugal",
          "title":"Porto, Portugal",
-         "scene":"river city",
+         "scene":"city",
          "id":"c836e775-cc60-4f20-966a-32d7f1b84c29",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Porto1.mp4"
       },
@@ -36,7 +36,7 @@
          "timeOfDay":"day",
          "accessibilityLabel":"Tamarindo, Costa Rica",
          "title":"Tamarindo, Costa Rica",
-         "scene":"beach",
+         "scene":"Beach",
          "id":"e4418451-3645-4c5b-a861-db105c28fbc5",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Tamarindo.mp4"
       },
