@@ -5,21 +5,23 @@
          "accessibilityLabel":"Balearic Islands, Spain",
          "title":"Isla de Formentera",
          "scene":"island coast",
-         "id":"pj1",
+         "id":"b206e55b-7112-42a5-aa1f-cb66fa9f9a79",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Formentera1.mp4"
       },
       {
          "timeOfDay":"day",
+         "accessibilityLabel":"Porto, Portugal",
          "title":"Porto, Portugal",
          "scene":"river city",
-         "id":"pj2",
+         "id":"c836e775-cc60-4f20-966a-32d7f1b84c29",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Porto1.mp4"
       },
       {
          "timeOfDay":"day",
+         "accessibilityLabel":"UC Berkeley",
          "title":"Sather Tower, UC Berkeley",
          "scene":"college campus",
-         "id":"pj3",
+         "id":"e65c4d4b-9c98-4ad2-9b37-c5b77d4d6598",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/SatherTower.mp4"
       }
    ],
