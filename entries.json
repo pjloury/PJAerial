@@ -23,8 +23,34 @@
          "scene":"college campus",
          "id":"e65c4d4b-9c98-4ad2-9b37-c5b77d4d6598",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/SatherTower.mp4"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Las Vegas, NV",
+         "title":"Red Rocks State Park",
+         "scene":"state park",
+         "id":"c6d352b7-43a0-47d0-b465-16fd3665b2eb",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/RedRocks1.mp4"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Tamarindo, Costa Rica",
+         "title":"Tamarindo, Costa Rica",
+         "scene":"beach",
+         "id":"e4418451-3645-4c5b-a861-db105c28fbc5",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Tamarindo.mp4"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Eastern Sierras, California",
+         "title":"Alabama Hills, Eastern Sierras in California",
+         "scene":"mountains",
+         "id":"fd53086f-3f60-4806-8864-07e732ae2a5c",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Alabama+Hills.mp4"
       }
    ],
    "version":1,
    "initialAssetCount":0
 }
+
+
