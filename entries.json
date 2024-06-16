@@ -1,63 +1,88 @@
 {
    "assets":[
       {
+         "title":"Isla de Formentera",
          "timeOfDay":"day",
          "accessibilityLabel":"Balearic Islands, Spain",
-         "title":"Isla de Formentera",
          "scene":"island coast",
          "id":"b206e55b-7112-42a5-aa1f-cb66fa9f9a79",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Formentera1.mp4"
       },
       {
+         "title":"Porto, Portugal",
          "timeOfDay":"day",
          "accessibilityLabel":"Porto, Portugal",
-         "title":"Porto, Portugal",
          "scene":"city",
          "id":"c836e775-cc60-4f20-966a-32d7f1b84c29",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Porto1.mp4"
       },
       {
+         "title":"Sather Tower, UC Berkeley",
          "timeOfDay":"day",
          "accessibilityLabel":"UC Berkeley",
-         "title":"Sather Tower, UC Berkeley",
          "scene":"college campus",
          "id":"e65c4d4b-9c98-4ad2-9b37-c5b77d4d6598",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/SatherTower.mp4"
       },
       {
+         "title":"Red Rocks State Park",
          "timeOfDay":"day",
          "accessibilityLabel":"Las Vegas, NV",
-         "title":"Red Rocks State Park",
          "scene":"state park",
          "id":"c6d352b7-43a0-47d0-b465-16fd3665b2eb",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/RedRocks1.mp4"
       },
       {
-         "timeOfDay":"day",
          "accessibilityLabel":"Tamarindo, Costa Rica",
+         "timeOfDay":"day",
          "title":"Tamarindo, Costa Rica",
          "scene":"Beach",
          "id":"e4418451-3645-4c5b-a861-db105c28fbc5",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Tamarindo.mp4"
       },
       {
+         "title":"Alabama Hills, Eastern Sierras in California",
          "timeOfDay":"day",
          "accessibilityLabel":"Eastern Sierras, California",
-         "title":"Alabama Hills, Eastern Sierras in California",
          "scene":"mountains",
          "id":"fd53086f-3f60-4806-8864-07e732ae2a5c",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Alabama+Hills.mp4"
       },
       {
+         "title":"Douro River in Porto, Portugal",
          "timeOfDay":"day",
          "accessibilityLabel":"Porto, Portugal",
-         "title":"Douro River in Porto, Portugal",
          "scene":"river city",
          "id":"5a8c2459-134f-412f-9c16-a21f44b4f16a",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Porto2.mp4"
+      },
+      {
+         "title":"SF Bay Salt Marshes",
+         "timeOfDay":"day",
+         "accessibilityLabel":"San Francisco Bay",
+         "scene":"bay",
+         "id":"4b2fab4d-c8ae-4c23-8991-00554813b7f5",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/Salt+Flats.mp4"
+      },
+      {
+         "title":"San Francisco Embarcadero",
+         "timeOfDay":"day",
+         "accessibilityLabel":"San Francisco Emabarcadero",
+         "scene":"bay, city",
+         "id":"ba6773c2-5e67-4392-97c3-23ede5899d74",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/SF+Embarcadero.mp4"
+      },
+      {
+         "title":"Scenic Vista Court",
+         "timeOfDay":"day",
+         "accessibilityLabel":"Scenic Vista Court",
+         "scene":"bay",
+         "id":"1473b173-54b0-417d-b4a7-4cb9f005e333",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/SV+Dusk.mp4"
       }
+      
    ],
-   "version":1,
+   "version":2,
    "initialAssetCount":0
 }
 
