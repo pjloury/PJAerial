@@ -79,10 +79,17 @@
          "scene":"bay",
          "id":"1473b173-54b0-417d-b4a7-4cb9f005e333",
          "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/SV+Dusk.mp4"
+      },
+      {
+         "title":"Northern Marin Coastline",
+         "timeOfDay":"day",
+         "accessibilityLabel":"Northern Marin Coastline",
+         "scene":"coastline",
+         "id":"6f83b944-a6f6-44c8-b658-f8435aa7e67e",
+         "url-4K-HDR":"https://pjloury-aerial.s3.us-west-2.amazonaws.com/NorthernMarinCoastline.mp4"
       }
-      
    ],
-   "version":2,
+   "version":3,
    "initialAssetCount":0
 }
 
